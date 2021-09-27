@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\VB北市歷屆檔案\96\高工組\第三題\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\User\Desktop\VB北市歷屆檔案\96\高工組\第三題\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\User\Desktop\VB北市歷屆檔案\96\高工組\第三題\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\User\Desktop\VB北市歷屆檔案\96\高工組\第三題\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\User\Desktop\VB北市歷屆檔案\96\高工組\第三題\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\VB北市歷屆檔案\96\高工組\第三題\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\User\Desktop\VB北市歷屆檔案\96\高工組\第三題\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\User\Desktop\VB北市歷屆檔案\96\高工組\第三題\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\VB北市歷屆檔案\96\高工組\第三題\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\VB北市歷屆檔案\96\高工組\第三題\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\User\Desktop\VB北市歷屆檔案\96\高工組\第三題\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\User\Desktop\VB北市歷屆檔案\96\高工組\第三題\WindowsApp2\obj\Debug\WindowsApp2.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\VB北市歷屆檔案\107\高工組\第四題\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\User\Desktop\VB北市歷屆檔案\107\高工組\第四題\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\VB北市歷屆檔案\107\高工組\第四題\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\User\Desktop\VB北市歷屆檔案\107\高工組\第四題\ConsoleApp1\bin\Debug\ConsoleApp1.xml
+C:\Users\User\Desktop\VB北市歷屆檔案\107\高工組\第四題\ConsoleApp1\obj\Debug\ConsoleApp1.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\VB北市歷屆檔案\107\高工組\第四題\ConsoleApp1\obj\Debug\ConsoleApp1.Resources.resources
+C:\Users\User\Desktop\VB北市歷屆檔案\107\高工組\第四題\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\VB北市歷屆檔案\107\高工組\第四題\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\VB北市歷屆檔案\107\高工組\第四題\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\VB北市歷屆檔案\107\高工組\第四題\ConsoleApp1\obj\Debug\ConsoleApp1.xml
+C:\Users\User\Desktop\VB北市歷屆檔案\107\高工組\第四題\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
